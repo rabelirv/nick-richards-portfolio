@@ -1,5 +1,9 @@
 function Home() {
-    return <h1>Welcome to My Portfolio</h1>;
+    return (
+    <div>
+      <div class="image-overlay"></div>
+    </div>
+    );
   }
   
   export default Home;
